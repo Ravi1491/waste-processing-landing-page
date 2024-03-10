@@ -17,8 +17,8 @@ const HomeCategory = () => {
   ];
 
   return (
-    <div className="flex flex-col items-center justify-center mx-auto w-8/12 gap-10 text-[#393E46] my-5">
-      <div className="flex flex-col items-center justify-center text-center font-poppins leading-7 mb-4">
+    <div className="flex flex-col items-center justify-center mx-auto w-8/12 gap-10 text-[#393E46] my-10">
+      <div className="text-center font-poppins leading-7 mb-4">
         <p className="text-xl">Category</p>
         <p className="text-2xl font-bold">We offer Best Service</p>
       </div>
