@@ -3,7 +3,7 @@ import React from 'react';
 
 const NavBar = ({ selected }: { selected: string }) => {
   return (
-    <div className="flex items-center justify-between rounded-2xl bg-white border mt-12 mx-32 py-4 px-8">
+    <div className="flex items-center justify-between rounded-2xl bg-white border mx-32 py-4 px-8">
       <div>
         <LogoIcon />
       </div>
