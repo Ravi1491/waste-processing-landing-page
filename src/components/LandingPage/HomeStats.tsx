@@ -2,7 +2,7 @@ import React from 'react';
 
 const HomeStats = () => {
   return (
-    <div className="flex items-center justify-center gap-32 my-10 mx-auto font-poppins">
+    <div className="flex items-center justify-center gap-32 my-10 mx-auto w-7/12 font-poppins">
       <div className="text-center">
         <p className="text-2xl font-bold">200+</p>
         <p className="text-xl font-semibold">Member</p>

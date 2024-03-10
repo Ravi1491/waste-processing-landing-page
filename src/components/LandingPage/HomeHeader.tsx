@@ -4,12 +4,12 @@ import React from 'react';
 const HomeHeader = () => {
   return (
     <div className="flex flex-col mt-16 mx-48">
-      <div className="flex items-center justify-center">
+      <div className="flex items-center justify-center gap-x-20">
         <div className="flex flex-col mx-6 pr-8">
           <div className="text-white text-start my-7 font-poppins">
             <div className="leading-loose">
               <p className="font-semibold text-lg">Hi Folks!</p>
-              <p className="text-3xl font-bold">
+              <p className="text-3xl font-bold text-[#FFFFDD]">
                 Inovation Dedication <br /> and Sustainable Solution
               </p>
             </div>
